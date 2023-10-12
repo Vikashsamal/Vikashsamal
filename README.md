@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <!--
-**Vikashsamal/Vikashsamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![image](https://github.com/Vikashsamal/Vikashsamal/assets/42547820/9f381961-ec39-4e6e-9822-a493b48a4a5c)
+
 
 Here are some ideas to get you started:
 
