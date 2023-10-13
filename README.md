@@ -1,4 +1,4 @@
-![logo](https://github.com/Vikashsamal/Vikashsamal/blob/main/ezgif.com-crop.gif)
+![logo](https://github.com/Vikashsamal/Vikashsamal/blob/main/Profile.gif)
 <h1 align="center">Hi 👋, I'm Bikash Samal</h1>
 <h3 align="center">A passionate Data Science Learner</h3>
 
